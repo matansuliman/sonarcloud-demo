@@ -1,5 +1,5 @@
-from trigonometry_functions import *
-from trigonometry_functions import *
+from .trigonometry_functions import *
+from .trigonometry_functions import *
 
 def add(a, b):
     return a + b
